@@ -7,6 +7,6 @@ marketplace-discount,com.example.marketplace.model,ResumoCarrinho,3,30,0,0,1,11,
 marketplace-discount,com.example.marketplace.model,ItemCarrinho,0,24,0,0,0,7,0,4,0,4
 marketplace-discount,com.example.marketplace.model,SelecaoCarrinho,0,26,0,0,0,12,0,6,0,6
 marketplace-discount,com.example.marketplace.repository,ProdutoEmMemoriaRepository,0,99,0,0,0,10,0,4,0,4
-marketplace-discount,com.example.marketplace.service,ServicoCarrinho,13,156,1,12,2,34,2,11,1,4
+marketplace-discount,com.example.marketplace.service,ServicoCarrinho,15,160,3,11,2,33,4,10,1,5
 marketplace-discount,com.example.marketplace.service,ServicoProduto,0,10,0,0,0,4,0,2,0,2
 marketplace-discount,com.example.marketplace,AplicacaoMercado,5,3,0,0,2,1,1,1,1,1

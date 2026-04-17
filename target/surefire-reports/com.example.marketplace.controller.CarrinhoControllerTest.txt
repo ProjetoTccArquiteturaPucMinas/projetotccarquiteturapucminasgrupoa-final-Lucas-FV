@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.marketplace.controller.CarrinhoControllerTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.522 s -- in com.example.marketplace.controller.CarrinhoControllerTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.596 s -- in com.example.marketplace.controller.CarrinhoControllerTest

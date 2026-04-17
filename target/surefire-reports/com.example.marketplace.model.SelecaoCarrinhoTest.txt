@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.marketplace.model.SelecaoCarrinhoTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s -- in com.example.marketplace.model.SelecaoCarrinhoTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.106 s -- in com.example.marketplace.model.SelecaoCarrinhoTest
