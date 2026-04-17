@@ -1,6 +1,6 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
-## Seu Nome: 
+## Seu Nome: Lucas Flor Vilela
 
 ## Visão Geral do Projeto
 
